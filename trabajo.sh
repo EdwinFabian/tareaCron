@@ -6,6 +6,6 @@ git add .
 git commit -a -m "mi commit"
 git push -u origin master
 
-echo "tarea martes"
+echo "tarea iercoles"
 
 
